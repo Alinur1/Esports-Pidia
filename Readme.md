@@ -7,3 +7,5 @@
 7. This project was done using older version of Visual Studio  and .net framework version 4.0 was used.
 8. If you are using Visual studio 2022 and anything popes up after running the project, select the topmost option to run the project correctly or download and install the .net framework 4.0
 9. Enjoy
+
+![Epidia](https://github.com/Alinur1/Esports-pidia/assets/87419413/9154703b-7ce6-46b6-af52-1662c75c276d)
